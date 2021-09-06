@@ -9,7 +9,7 @@ Rule classification is the process of taking a segmented image and grouping simi
 A game company wants to create level-based new customer definitions (personas) by using some features of its customers, and to create segments according to these new customer definitions and to estimate how much the new customers can earn on average according to these segments.
 
 E.g:
-It is desired to determine how much a 25-year-old male user from the Netherlands, who is an IOS user, can earn on average.
+It is desired to determine how much a 25-year-old male user from the Turkey, who is an IOS user, can earn on average.
 
 
 
